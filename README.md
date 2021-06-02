@@ -1,8 +1,6 @@
 # IPTV. [DEPRECATED] 
 
-## Disclaimer
 
- 
 ## What is this?
 
 IPTV is a simple python program that let you crawl the search engines
