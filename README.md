@@ -2,8 +2,7 @@
 
 ## Disclaimer
 
-   This program is just a demonstration. **It's not intended** for personal purpose.
-
+ 
 ## What is this?
 
 IPTV is a simple python program that let you crawl the search engines
@@ -18,8 +17,6 @@ purpose, we have discovered a lot of those exploits.
 ## Ethical Dilemma
 
 Even though those services are illegal, stealing from a thief is still stealing.
-
-Using this program for your personal use is illegal.
 
 ## External dependencies
 
